@@ -5,7 +5,8 @@ import java.util.*;
 public class buzzNumber {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Buzz Number Program
+		
 		//A Number is said to be Buzz if it ends with the Number
 		//7 or if the number is divisible by 7
 		int num;
